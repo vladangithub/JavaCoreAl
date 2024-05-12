@@ -1,3 +1,5 @@
+package JavaBeginners10;
+
 public class ifLOOP {
     public static void main(String[] args) {
         int myInt = 5;

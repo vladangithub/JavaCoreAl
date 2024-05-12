@@ -1,3 +1,5 @@
+package JavaBeginners10;
+
 public class variables2 {
     public static void main(Strings3[] args) {
         int myInt = 557;

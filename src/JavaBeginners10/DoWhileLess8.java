@@ -1,3 +1,5 @@
+package JavaBeginners10;
+
 import java.util.Scanner;
 
 public class DoWhileLess8 {

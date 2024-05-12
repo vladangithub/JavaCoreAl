@@ -1,3 +1,5 @@
+package JavaBeginners10;
+
 import java.util.Scanner;
 
 public class InputOutput7 {
