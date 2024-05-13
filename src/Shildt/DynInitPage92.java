@@ -1,4 +1,4 @@
-package ShildtPart3;
+package Shildt;
 
 public class DynInitPage92 {
     public static void main(String[] args) {
