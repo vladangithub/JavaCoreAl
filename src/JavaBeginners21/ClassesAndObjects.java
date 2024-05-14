@@ -3,22 +3,27 @@ package JavaBeginners21;
 public class ClassesAndObjects {
     public static void main(String[] args) {
         Person person1 = new Person();
-        person1.name = "John Doe";
-        person1.age = 46;
+//        person1.name = "John Doe";
+//        person1.age = 46;
 //        System.out.println("Менья завут - " + person1.name + ", " + "Мну - " + person1.age);
 //        person1.speak();
+        String s1 = "Bobbie";
+
+        person1.setNameAndAge("Koka", 46);
         person1.sayHello();
 
         Person person2 = new Person();
-        person2.name = "BOOOBBBBB Doe";
-        person2.age = 63;
+//        person2.name = "BOOOBBBBB Doe";
+        person2.setNameAndAge(s1, 47);
+//        person2.age = 63;
+        person1.speak();
 //        System.out.println("Менья завут - " + person2.name + ", " + "Мну - " + person2.age);
 //        person2.speak();
         person2.speak();
-        int year1 = person1.calcYearToPen();
-        int year2 = person2.calcYearToPen();
-        System.out.println("Первому челу до пенсии: " + year1);
-        System.out.println("Второму челу до пенсии: " + year2);
+//        int year1 = person1.calcYearToPen();
+//        int year2 = person2.calcYearToPen();
+//        System.out.println("Первому челу до пенсии: " + year1);
+//        System.out.println("Второму челу до пенсии: " + year2);
     }
 }
 
@@ -29,7 +34,12 @@ class Person {
     String name;
     int age;
 
-    int calcYearToPen(){
+    void setNameAndAge(String userName, int userage) {
+        name = userName;
+        age = userage;
+    }
+
+    int calcYearToPen() {
         int years = 65 - age;
         return years;
     }
