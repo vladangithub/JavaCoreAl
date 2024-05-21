@@ -10,13 +10,21 @@ public class TestType {
 //        float f = 3.14f;
 //        double d = 3.14;
 //        boolean c = true;
-        float f = 123.2f;
+//        float f = (float)123.2;
+//
+//        int a = 123;
+//        long l = a; // неявное приведение типов
+//        int x = (int)l;
+//        System.out.println(x); // явное приведение типов
+//        int a = 123;
+//        double x = 123.7;
+//        int y = (int)x;
+//        System.out.println(y);
+//
+//        long l = Math.round(x);
+//        System.out.println(l);
 
-        int a = 123;
-        long l = a; // неявное приведение типов
-        int x = (int) l;
-        System.out.println(x);// явное приведение типов
-
-
+        byte x = (byte)148; // -128  127
+        System.out.println(x);
     }
 }
