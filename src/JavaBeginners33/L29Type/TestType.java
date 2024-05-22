@@ -27,13 +27,6 @@ public class TestType {
 //        byte x = (byte)148; // -128  127
 //        System.out.println(x);
 
-        int x = 1;
-        Integer x2 = 123;
-        Integer.parseInt(123);
-        System.out.println(x);
-
-        Boolean.TYPE
-
 
     }
 }
