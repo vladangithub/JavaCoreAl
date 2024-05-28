@@ -4,7 +4,7 @@ package DMDEV.ForWhileWork;
 
 public class SumNumber {
     public static void main(String[] args) {
-        int value = 12345;
+        int value = 12340;
         int result = sum(value);
         System.out.println(result);
 
