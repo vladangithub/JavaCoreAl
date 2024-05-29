@@ -1,13 +1,9 @@
 package DMDEV.ArrayEx;
 
-/*
- *Написать метод equals, который определяет, равны ли между собой соответствующие элементы 2х метных массивов.
- * */
-
-public class Ex3 {
+public class Ex21 {
     public static void main(String[] args) {
         int[][] values1 = {
-                {1, 2, 78},
+                {1, 2, 8},
                 {5, 2, 8},
                 {9, 10},
         };
@@ -16,6 +12,7 @@ public class Ex3 {
                 {5, 2, 8},
                 {9, 10},
         };
+//        boolean result = equals(values1, values2);
         System.out.println(equals(values1, values2));
     }
 
@@ -25,7 +22,7 @@ public class Ex3 {
         }
         for (int i = 0; i < values1.length; i++) {
             int[] row1 = values1[i];
-            int[] row2 = values1[i];
+            int[] row2 = values2[i];
             if (row1.length != row2.length) {
                 return false;
             }
@@ -38,16 +35,3 @@ public class Ex3 {
         return true;
     }
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
