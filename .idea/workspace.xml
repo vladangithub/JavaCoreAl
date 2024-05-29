@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="335dee2d-6da6-4c16-8cf4-c7c11c451afa" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaCoreAl.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HelloWorld.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+    <list default="true" id="335dee2d-6da6-4c16-8cf4-c7c11c451afa" name="Changes" comment="DMDEVjavaCore1ManyArrays">
+      <change afterPath="$PROJECT_DIR$/src/DMDEV/ArrayEx/Ex1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DMDEV/ArrayEx/Ex2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DMDEV/ArrayEx/Ex3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,6 +19,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -26,19 +27,72 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 0
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
   <component name="ProjectId" id="2gJ7ORkSJTsbRfctfyW6OU2BqnL" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.AlphaBet.executor": "Run",
+    "Application.ArrayEx.executor": "Run",
+    "Application.BreakContinueLess9.executor": "Run",
+    "Application.ClassesAndObjects.executor": "Run",
+    "Application.DoWhileLess8.executor": "Run",
+    "Application.DynInitPage92.executor": "Run",
+    "Application.Ex1.executor": "Run",
+    "Application.Ex2.executor": "Run",
+    "Application.Fib.executor": "Run",
     "Application.HelloWorld.executor": "Run",
+    "Application.Input.executor": "Run",
+    "Application.InputOutput8.executor": "Run",
+    "Application.JavaBeginners33.Less28.Pack1.Test.executor": "Run",
+    "Application.JavaBeginners33.Less28.Test.executor": "Run",
+    "Application.JavaBeginners33.Less29.Polimorf.Test.executor": "Run",
+    "Application.Leson20.executor": "Run",
+    "Application.Less11Array.executor": "Run",
+    "Application.Less12ForEach.executor": "Run",
+    "Application.Less12While$WhileExample.executor": "Run",
+    "Application.Less12While.executor": "Run",
+    "Application.Less19.executor": "Run",
+    "Application.Less23String.executor": "Run",
+    "Application.Less24ObjectToString.executor": "Run",
+    "Application.Less25Nasledovanie.executor": "Run",
+    "Application.Less27.Test.executor": "Run",
+    "Application.Less62For.executor": "Run",
+    "Application.LessMultiArrays.executor": "Run",
+    "Application.ManyArray.executor": "Run",
+    "Application.NoBodyPage141.executor": "Run",
+    "Application.Rain.executor": "Run",
+    "Application.Recursion.executor": "Run",
+    "Application.SaleManh.executor": "Run",
+    "Application.StrangeNumber.executor": "Run",
+    "Application.Strings.executor": "Run",
+    "Application.SumNum.executor": "Run",
+    "Application.SumNumber.executor": "Run",
+    "Application.SwitchLess10.executor": "Run",
+    "Application.Task1.executor": "Run",
+    "Application.Task3.executor": "Run",
+    "Application.Task4.executor": "Run",
+    "Application.Task5.executor": "Run",
+    "Application.Task6.executor": "Run",
+    "Application.Test.executor": "Run",
+    "Application.TestType.executor": "Run",
+    "Application.WhileLoops.executor": "Run",
+    "Application.Work1.executor": "Run",
+    "Application.forLoop.executor": "Run",
+    "Application.ifLOOP.executor": "Run",
+    "Application.less18Encapsulation.executor": "Run",
+    "Application.less23part2StringFormat.executor": "Run",
+    "Application.variables.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "extract.method.default.visibility": "private",
     "kotlin-language-version-configured": "true",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -46,9 +100,86 @@
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "onboarding.tips.debug.path": "C:/Users/azesm/IdeaProjects/JavaCoreAl/src/Main.java",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RunManager" selected="Application.Ex2">
+    <configuration name="ArrayEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DMDEV.Array.ArrayEx" />
+      <module name="JavaCoreAl" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DMDEV.Array.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ex1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DMDEV.ArrayEx.Ex1" />
+      <module name="JavaCoreAl" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DMDEV.ArrayEx.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ex2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DMDEV.ArrayEx.Ex2" />
+      <module name="JavaCoreAl" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DMDEV.ArrayEx.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ManyArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DMDEV.Array.ManyArray" />
+      <module name="JavaCoreAl" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DMDEV.Array.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Rain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DMDEV.HW6.Rain" />
+      <module name="JavaCoreAl" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DMDEV.HW6.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Ex2" />
+        <item itemvalue="Application.Ex1" />
+        <item itemvalue="Application.ManyArray" />
+        <item itemvalue="Application.ArrayEx" />
+        <item itemvalue="Application.Rain" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -65,22 +196,350 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1715403794140</updated>
-      <workItem from="1715403795161" duration="440000" />
+      <workItem from="1715403795161" duration="8517000" />
+      <workItem from="1715449476481" duration="1286000" />
+      <workItem from="1715502731648" duration="8633000" />
+      <workItem from="1715517904133" duration="663000" />
+      <workItem from="1715518585178" duration="67000" />
+      <workItem from="1715537055331" duration="2951000" />
+      <workItem from="1715576632963" duration="1563000" />
+      <workItem from="1715582869326" duration="4714000" />
+      <workItem from="1715617546195" duration="5374000" />
+      <workItem from="1715668932360" duration="4119000" />
+      <workItem from="1715673763990" duration="3732000" />
+      <workItem from="1715684750530" duration="1131000" />
+      <workItem from="1715685895392" duration="4970000" />
+      <workItem from="1715758017051" duration="11671000" />
+      <workItem from="1715789403777" duration="6100000" />
+      <workItem from="1715863841506" duration="13652000" />
+      <workItem from="1715921813606" duration="8581000" />
+      <workItem from="1715965322793" duration="139000" />
+      <workItem from="1716027106215" duration="3404000" />
+      <workItem from="1716292875187" duration="1295000" />
+      <workItem from="1716326195994" duration="2130000" />
+      <workItem from="1716363366693" duration="11934000" />
+      <workItem from="1716421037471" duration="2590000" />
+      <workItem from="1716792264324" duration="3659000" />
+      <workItem from="1716811131629" duration="2384000" />
+      <workItem from="1716870620964" duration="10750000" />
+      <workItem from="1716958807375" duration="2312000" />
     </task>
+    <task id="LOCAL-00001" summary="first">
+      <option name="closed" value="true" />
+      <created>1715404293780</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1715404293780</updated>
+    </task>
+    <task id="LOCAL-00002" summary="first">
+      <option name="closed" value="true" />
+      <created>1715404318909</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1715404318909</updated>
+    </task>
+    <task id="LOCAL-00003" summary="7Scanner">
+      <option name="closed" value="true" />
+      <created>1715449727375</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1715449727375</updated>
+    </task>
+    <task id="LOCAL-00004" summary="8DoWhile">
+      <option name="closed" value="true" />
+      <created>1715512718691</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1715512718691</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Day1Task3">
+      <option name="closed" value="true" />
+      <created>1715514950925</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1715514950925</updated>
+    </task>
+    <task id="LOCAL-00006" summary="BreakContinueLess9">
+      <option name="closed" value="true" />
+      <created>1715518629854</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1715518629854</updated>
+    </task>
+    <task id="LOCAL-00007" summary="SwitchLess10">
+      <option name="closed" value="true" />
+      <created>1715538506679</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1715538506679</updated>
+    </task>
+    <task id="LOCAL-00008" summary="foreachLess12">
+      <option name="closed" value="true" />
+      <created>1715585273826</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1715585273826</updated>
+    </task>
+    <task id="LOCAL-00009" summary="foreachLess12">
+      <option name="closed" value="true" />
+      <created>1715587239872</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1715587239872</updated>
+    </task>
+    <task id="LOCAL-00010" summary="MultyArr">
+      <option name="closed" value="true" />
+      <created>1715620002894</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1715620002894</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Less15">
+      <option name="closed" value="true" />
+      <created>1715671270793</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1715671270793</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Less16">
+      <option name="closed" value="true" />
+      <created>1715674793008</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1715674793008</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Less17">
+      <option name="closed" value="true" />
+      <created>1715679675790</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1715679675790</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Less18">
+      <option name="closed" value="true" />
+      <created>1715688718153</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1715688718153</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Less19">
+      <option name="closed" value="true" />
+      <created>1715691371470</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1715691371470</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Less20">
+      <option name="closed" value="true" />
+      <created>1715759896929</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1715759896929</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Less21">
+      <option name="closed" value="true" />
+      <created>1715767103458</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1715767103458</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Less22Final">
+      <option name="closed" value="true" />
+      <created>1715770936839</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1715770936839</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Less23">
+      <option name="closed" value="true" />
+      <created>1715792825732</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1715792825732</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Less25Nasledovanie">
+      <option name="closed" value="true" />
+      <created>1715870886594</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1715870886594</updated>
+    </task>
+    <task id="LOCAL-00021" summary="Less26Interfaces">
+      <option name="closed" value="true" />
+      <created>1715871277701</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1715871277701</updated>
+    </task>
+    <task id="LOCAL-00022" summary="Less26Interfaces15-40">
+      <option name="closed" value="true" />
+      <created>1715883885564</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1715883885564</updated>
+    </task>
+    <task id="LOCAL-00023" summary="Less26InterfacesEnd">
+      <option name="closed" value="true" />
+      <created>1715885948871</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1715885948871</updated>
+    </task>
+    <task id="LOCAL-00024" summary="Less27">
+      <option name="closed" value="true" />
+      <created>1715926529776</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1715926529776</updated>
+    </task>
+    <task id="LOCAL-00025" summary="Less28">
+      <option name="closed" value="true" />
+      <created>1715936558117</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1715936558117</updated>
+    </task>
+    <task id="LOCAL-00026" summary="Less29">
+      <option name="closed" value="true" />
+      <created>1716029919410</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1716029919410</updated>
+    </task>
+    <task id="LOCAL-00027" summary="Less29">
+      <option name="closed" value="true" />
+      <created>1716310580401</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1716310580401</updated>
+    </task>
+    <task id="LOCAL-00028" summary="Less30Type">
+      <option name="closed" value="true" />
+      <created>1716327177920</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1716327177920</updated>
+    </task>
+    <task id="LOCAL-00029" summary="Less32">
+      <option name="closed" value="true" />
+      <created>1716365509262</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1716365509262</updated>
+    </task>
+    <task id="LOCAL-00030" summary="Less32">
+      <option name="closed" value="true" />
+      <created>1716371640887</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1716371640887</updated>
+    </task>
+    <task id="LOCAL-00031" summary="DMDEVjavaCore1Less62SumNumber">
+      <option name="closed" value="true" />
+      <created>1716423626818</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1716423626818</updated>
+    </task>
+    <task id="LOCAL-00032" summary="DMDEVjavaCore1Less63">
+      <option name="closed" value="true" />
+      <created>1716872362018</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1716872362018</updated>
+    </task>
+    <task id="LOCAL-00033" summary="DMDEVjavaCore1HomeWork6">
+      <option name="closed" value="true" />
+      <created>1716874157584</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1716874157584</updated>
+    </task>
+    <task id="LOCAL-00034" summary="DMDEVjavaCore1Arrays">
+      <option name="closed" value="true" />
+      <created>1716880926909</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1716880926909</updated>
+    </task>
+    <task id="LOCAL-00035" summary="DMDEVjavaCore1ManyArrays">
+      <option name="closed" value="true" />
+      <created>1716886925681</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1716886925681</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Main.java</url>
-          <line>11</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="foreachLess12" />
+    <MESSAGE value="MultyArr" />
+    <MESSAGE value="Less15" />
+    <MESSAGE value="Less16" />
+    <MESSAGE value="Less17" />
+    <MESSAGE value="Less18" />
+    <MESSAGE value="Less19" />
+    <MESSAGE value="Less20" />
+    <MESSAGE value="Less21" />
+    <MESSAGE value="Less22Final" />
+    <MESSAGE value="Less23" />
+    <MESSAGE value="Less25Nasledovanie" />
+    <MESSAGE value="Less26Interfaces" />
+    <MESSAGE value="Less26Interfaces15-40" />
+    <MESSAGE value="Less26InterfacesEnd" />
+    <MESSAGE value="Less27" />
+    <MESSAGE value="Less28" />
+    <MESSAGE value="Less29" />
+    <MESSAGE value="Less30Type" />
+    <MESSAGE value="Less32" />
+    <MESSAGE value="DMDEVjavaCore1Less62SumNumber" />
+    <MESSAGE value="DMDEVjavaCore1Less63" />
+    <MESSAGE value="DMDEVjavaCore1HomeWork6" />
+    <MESSAGE value="DMDEVjavaCore1Arrays" />
+    <MESSAGE value="DMDEVjavaCore1ManyArrays" />
+    <option name="LAST_COMMIT_MESSAGE" value="DMDEVjavaCore1ManyArrays" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
